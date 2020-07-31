@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32d72684-c00f-4286-bec3-96db293a0bbc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/Spielwiese2/classcodes/java8/functionalInterfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/Spielwiese2/classcodes/java8/functionalInterfaces/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/klausuren/WiSe1920/ex5al/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/klausuren/WiSe1920/ex5al/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/klausuren/soSe19/ex5/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/klausuren/soSe19/ex5/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe10_avlTrees/exercise1/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe10_avlTrees/exercise1/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Cost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Cost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe5_reflections_annotations/exercise3/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe5_reflections_annotations/exercise3/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise1/LList$LListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise1/LList$LListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise1/LList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise1/LList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/LList$LListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/LList$LListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/LList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/LList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/PassengerAlphabeticalOrderComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOTE_Abgaben/sote_abgaben/abgabe6_collections/exercise6/PassengerAlphabeticalOrderComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/SOTE_Abgaben/klausuren/soSe19/ex5/PrimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/SOTE_Abgaben/klausuren/soSe19/ex5/PrimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/SOTE_Abgaben/sote_abgaben/abgabe9_junittesting/exercise1/LListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/SOTE_Abgaben/sote_abgaben/abgabe9_junittesting/exercise1/LListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/SOTE_Abgaben/sote_abgaben/abgabe9_junittesting/exercise1/LListTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/SOTE_Abgaben/sote_abgaben/abgabe9_junittesting/exercise1/LListTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/klausuren/soSe19/ex5/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/klausuren/soSe19/ex5/PrimePrivate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex5al/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex5al/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex5al/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex5al/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex9/b/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex9/b/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex9KL/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/klausuren/wiSe1920/ex9KL/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe10_avlTrees/exercise1/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe10_avlTrees/exercise1/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Cost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Cost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe3_enums_regularExpressions/exercise3/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe5_reflections_annotations/exercise3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe5_reflections_annotations/exercise3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise1/LList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise1/LList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise6/LList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise6/LList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise6/PassengerAlphabeticalOrderComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise6/PassengerAlphabeticalOrderComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sote_abgaben/abgabe7_generics/exercise4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sote_abgaben/abgabe7_generics/exercise4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spielwiese2/classcodes/java8/functionalInterfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spielwiese2/classcodes/java8/functionalInterfaces/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spielwiese2/classcodes/threads/synchronize/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spielwiese2/classcodes/threads/synchronize/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/klausuren/soSe19/ex5/PrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/klausuren/soSe19/ex5/PrimePrivateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/sote_abgaben/abgabe9_junittesting/exercise1/LListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sote_abgaben/abgabe9_junittesting/exercise1/LListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/sote_abgaben/abgabe9_junittesting/exercise1/LListTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sote_abgaben/abgabe9_junittesting/exercise1/LListTest1.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="AnnotationType" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Te6S6rpWAPkPnlh8cihGGzycPU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573315246364" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/klausuren/wiSe1920/ex9" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.08169935" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Spielwiese2.Abgabe1.ex5al" />
+      <recent name="abgabe6_Collections.exercise6" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="abgabe9_junittesting.exercise3" />
+      <recent name="abgabe9_junittesting" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="klausuren.wiSe1920" />
+      <recent name="abgabe9_junittesting.exercise3" />
+      <recent name="abgabe9_junittesting.exercise2" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="klausuren.wiSe1920.ex9.a" />
+      <recent name="klausuren.wiSe1920.ex9.b" />
+      <recent name="abgabe7_Generics.exercise0" />
+      <recent name="abgabe9_junittesting" />
+      <recent name="abgabe8_Exceptions.exercise2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Giana\Documents\HTWG\3 Semester\SOTE\Exercises\src\klausuren\wiSe1920\ex9" />
+      <recent name="C:\Users\Giana\Documents\HTWG\3 Semester\SOTE\Exercises\src\Spielwiese2\abgabe9\ex1" />
+      <recent name="C:\Users\Giana\Documents\HTWG\3 Semester\SOTE\Exercises\src\Spielwiese2\classcodes\exceptions" />
+      <recent name="C:\Users\Giana\Documents\HTWG\3 Semester\SOTE\Exercises\src\Spielwiese2\abgabe5\ex2" />
+      <recent name="C:\Users\Giana\Documents\HTWG\3 Semester\SOTE\Exercises\src\Spielwiese\src\klausur\aufg8\ander1" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Spielwiese.probeklausur" />
+      <recent name="Spielwiese.src.dependencyInjection" />
+      <recent name="abgabe9_junittesting.exercise3" />
+      <recent name="abgabe8_Exceptions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (5)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spielwiese2.classcodes.java8.functionalInterfaces.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spielwiese2.classcodes.java8.functionalInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klausuren.probeklausur.ex11.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="klausuren.probeklausur.ex11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spielwiese2.classcodes.enums.carTaxExample.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spielwiese2.classcodes.enums.carTaxExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klausuren.wiSe1920.ex5al.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="klausuren.wiSe1920.ex5al.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klausuren.wiSe1920.ex9KL.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="klausuren.wiSe1920.ex9KL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe1.ex4.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe1.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe1.ex5.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe1.ex5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe8.ex1.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe8.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.classcodes.generics.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.classcodes.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe2.ex1.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe2.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe3.ex1.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe3.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klausuren.wiSe1920.ex9.a.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="klausuren.wiSe1920.ex9.b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe5.ex1.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe5.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe1.ex5.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe1.ex5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spielwiese2.abgabe1.ex2.Main" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spielwiese2.abgabe1.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abgabe9_junittesting.Test" />
+      <module name="SOTE_Abgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sote_abgaben.abgabe9_junittesting.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d72684-c00f-4286-bec3-96db293a0bbc" name="Default Changelist" comment="" />
+      <created>1569938585680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569938585680</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sote_abgaben/abgabe5_reflections_annotations/exercise1/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sote_abgaben/abgabe9_junittesting/exercise3/AirportSystem.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sote_abgaben/abgabe9_junittesting/exercise3/AirportSystem.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spielwiese/inheritance/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sote_abgaben/abgabe6_collections/exercise1/LList.java</url>
+          <line>114</line>
+          <properties class="sote_abgaben.abgabe6_collections.exercise1.LList" method="remove">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/spielwiese/src/inheritance/Main.java</url>
+          <line>6</line>
+          <properties class="spielwiese.src.inheritance.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/spielwiese/reflections/Main.java</url>
+          <line>7</line>
+          <properties class="spielwiese.reflections.Main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
